@@ -1,0 +1,76 @@
+fileFormatVersion: 2
+guid: b8ba50fd4d3be784d87e50ca1993edb0
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 715df9372183c47e389bb6e19fbc3b52, type: 3}
+  editorImportSettings:
+    generateSecondaryUVSet: 0
+  importSettings:
+    nodeNameMethod: 1
+    animationMethod: 2
+    generateMipMaps: 1
+    texturesReadable: 0
+    defaultMinFilterMode: 9729
+    defaultMagFilterMode: 9729
+    anisotropicFilterLevel: 1
+  instantiationSettings:
+    mask: -1
+    layer: 0
+    skinUpdateWhenOffscreen: 1
+    lightIntensityFactor: 1
+    sceneObjectCreation: 2
+  assetDependencies:
+  - type: 0
+    originalUri: Assets\single_stage\scene.bin
+    assetPath: Assets\single_stage\scene.bin
+  - type: 1
+    originalUri: Assets\single_stage\textures\Material_2100438192_baseColor.jpeg
+    assetPath: Assets\single_stage\textures\Material_2100438192_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\single_stage\textures\Material_2100438257_baseColor.jpeg
+    assetPath: Assets\single_stage\textures\Material_2100438257_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\single_stage\textures\screen_baseColor.jpeg
+    assetPath: Assets\single_stage\textures\screen_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\single_stage\textures\screen_metallicRoughness.png
+    assetPath: Assets\single_stage\textures\screen_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\single_stage\textures\Material_2100438245_baseColor.jpeg
+    assetPath: Assets\single_stage\textures\Material_2100438245_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\single_stage\textures\frosted_glass_emissive.jpeg
+    assetPath: Assets\single_stage\textures\frosted_glass_emissive.jpeg
+  - type: 1
+    originalUri: Assets\single_stage\textures\news_samanthi_baseColor.jpeg
+    assetPath: Assets\single_stage\textures\news_samanthi_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\single_stage\textures\05_-_Default_baseColor.jpeg
+    assetPath: Assets\single_stage\textures\05_-_Default_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\single_stage\textures\04_-_Default_baseColor.jpeg
+    assetPath: Assets\single_stage\textures\04_-_Default_baseColor.jpeg
+  reportItems:
+  - type: 2
+    code: 30
+    messages: []
+  - type: 2
+    code: 30
+    messages: []
+  - type: 2
+    code: 30
+    messages: []
+  - type: 2
+    code: 30
+    messages: []
+  - type: 2
+    code: 30
+    messages: []
+  - type: 2
+    code: 30
+    messages: []

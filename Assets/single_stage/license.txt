@@ -1,0 +1,11 @@
+Model Information:
+* title:	Single Stage
+* source:	https://sketchfab.com/3d-models/single-stage-babc80c1fc1e42939082bc28f42c0230
+* author:	Denodesign (https://sketchfab.com/Denodesign)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Single Stage" (https://sketchfab.com/3d-models/single-stage-babc80c1fc1e42939082bc28f42c0230) by Denodesign (https://sketchfab.com/Denodesign) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
